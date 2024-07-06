@@ -1,0 +1,14 @@
+F:\Work\Fenrir_Console\Console\obj\Debug\net8.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\Fenrir_Console\Console\obj\Debug\net8.0\Console.AssemblyInfoInputs.cache
+F:\Work\Fenrir_Console\Console\obj\Debug\net8.0\Console.AssemblyInfo.cs
+F:\Work\Fenrir_Console\Console\obj\Debug\net8.0\Console.csproj.CoreCompileInputs.cache
+F:\Work\Fenrir_Console\Console\obj\Debug\net8.0\Console.dll
+F:\Work\Fenrir_Console\Console\obj\Debug\net8.0\refint\Console.dll
+F:\Work\Fenrir_Console\Console\obj\Debug\net8.0\Console.pdb
+F:\Work\Fenrir_Console\Console\bin\Debug\net8.0\Console.exe
+F:\Work\Fenrir_Console\Console\bin\Debug\net8.0\Console.deps.json
+F:\Work\Fenrir_Console\Console\bin\Debug\net8.0\Console.runtimeconfig.json
+F:\Work\Fenrir_Console\Console\bin\Debug\net8.0\Console.dll
+F:\Work\Fenrir_Console\Console\bin\Debug\net8.0\Console.pdb
+F:\Work\Fenrir_Console\Console\obj\Debug\net8.0\Console.genruntimeconfig.cache
+F:\Work\Fenrir_Console\Console\obj\Debug\net8.0\ref\Console.dll

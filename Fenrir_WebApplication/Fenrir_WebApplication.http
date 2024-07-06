@@ -1,0 +1,6 @@
+@Fenrir_WebApplication_HostAddress = http://localhost:5006
+
+GET {{Fenrir_WebApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,7 @@
+F:\Fenrir_WebApplication\obj\Release\net8.0\Fenrir_WebApplication.csproj.AssemblyReference.cache
+F:\Fenrir_WebApplication\obj\Release\net8.0\Fenrir_WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+F:\Fenrir_WebApplication\obj\Release\net8.0\Fenrir_WebApplication.AssemblyInfoInputs.cache
+F:\Fenrir_WebApplication\obj\Release\net8.0\Fenrir_WebApplication.AssemblyInfo.cs
+F:\Fenrir_WebApplication\obj\Release\net8.0\Fenrir_WebApplication.csproj.CoreCompileInputs.cache
+F:\Fenrir_WebApplication\obj\Release\net8.0\Fenrir_WebApplication.MvcApplicationPartsAssemblyInfo.cs
+F:\Fenrir_WebApplication\obj\Release\net8.0\Fenrir_WebApplication.MvcApplicationPartsAssemblyInfo.cache
